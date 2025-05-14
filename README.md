@@ -6,7 +6,7 @@ A comprehensive Power BI dashboard analyzing Netflix content across multiple dim
 
 ## 🖼️ Project Snapshot
 
-![Netflix Dashboard](./path-to-your-image.png) <!-- Replace with actual image path in repo -->
+![Netflix Dashboard](https://github.com/Sumit-Data-Analyst/Netflix-Data-Dashboard--2008-2021-/blob/main/Capture.PNG?raw=true)
 
 ---
 
@@ -50,14 +50,15 @@ To explore and understand Netflix’s content catalog using interactive visuals 
 
 ## 📂 Project Structure
 
--📁 data-science-salary-dashboard
--📊 SalaryDashboard.pbix # Power BI file
--📁 data # Raw and cleaned datasets
--📁 images # Dashboard snapshots
--📄 README.md # Project documentation
+- 📁 data-science-salary-dashboard
+- 📊 SalaryDashboard.pbix # Power BI file
+- 📁 data # Raw and cleaned datasets
+- 📁 images # Dashboard snapshots
+- 📄 README.md # Project documentation
 
 ---
 
-##👤 Author
--Sumit Kumar
--📧 sumitkumar02269@gmail.com
+## 👤 Author
+
+- Sumit Kumar
+- 📧 sumitkumar02269@gmail.com
