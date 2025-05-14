@@ -58,7 +58,10 @@ To explore and understand Netflix’s content catalog using interactive visuals 
 
 ---
 
+---
+
 ## 👤 Author
 
-- Sumit Kumar
-- 📧 sumitkumar02269@gmail.com
+**Sumit Kumar**  
+📧 [sumitkumar02269@gmail.com](mailto:sumitkumar02269@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sumit-kumar-24b264330) 
